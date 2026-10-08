@@ -16,7 +16,7 @@ A sleek, responsive web calculator built with HTML, CSS, and vanilla JavaScript.
 * **Advanced/Scientific:** 
   * Parentheses `(` and `)` for operation sequencing.
   * Trigonometry: `sin`, `cos`, `tan`, `sinh`, `cosh`, `tanh`, and Radian controls.
-  * Powers & Roots: x², x³, \(x^y\), \(e^x\), \(10^x\), 1/x, \(^2\sqrt{x}\), \(^3\sqrt{x}\), \(^y\sqrt{x}\).
+  * Powers & Roots: $x^2$, $x^3$, $x^y$, $e^x$, $10^x$, $\frac{1}{x}$, $\sqrt{x}$, $\sqrt[3]{x}$, $\sqrt[y]{x}$.
   * Logarithms & Math Constants: `ln`, `log₁₀`, e, and π.
   * Memory Keys: `mc`, `m+`, `m-`, `mr`.
 
